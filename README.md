@@ -78,7 +78,7 @@
                 and love that feels safe and warm.
                 <br><br>
                 Thank you for being the best part of my life.  
-                I’m lucky to love you.
+                I’m lucky to have you.
             </p>
         </div>
 
