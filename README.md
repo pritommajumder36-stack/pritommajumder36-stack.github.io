@@ -63,7 +63,7 @@
     <div class="container">
 
         <h1>Happy Birthday, ANINDITA ❤️</h1>
-        <p>You make my world brighter, softer and sweeter every single day.<br>
+        <p>
         Today is your day, and I just want to remind you how special you truly are.</p>
 
         <div class="img-box">
