@@ -67,8 +67,8 @@
         Today is your day, and I just want to remind you how special you truly are.</p>
 
         <div class="img-box">
-            <img src="images/photo1.jpg" alt="Her Image 1">
-            <img src="images/photo2.jpg" alt="Her Image 2">
+            <img src="photo1.jpg" alt="Her Image 1">
+            <img src="photo2.jpg" alt="Her Image 2">
         </div>
 
         <div class="card">
